@@ -1,5 +1,5 @@
 import tensorflow as tf
-from tensorflow import keras as K
+import keras as K
 from tfsnippet.distributions import Normal
 from tfsnippet.modules import VAE, Sequential, DictMapper, Module
 from tfsnippet.stochastic import validate_n_samples
