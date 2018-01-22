@@ -1,5 +1,5 @@
 numpy >= 1.12.1
 six >= 1.11.0
-tensorflow >= 1.4.0
+tensorflow >= 0.12.0
 git+https://github.com/thu-ml/zhusuan.git
 git+https://github.com/korepwx/tfsnippet.git
